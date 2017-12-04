@@ -1,0 +1,29 @@
+{
+  "name": "react-components-toolkit",
+  "version": "0.0.1",
+  "description": "some react components ,including some often using effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBWu/react-components-toolkit.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "ui",
+    "effect",
+    "toolkit"
+  ],
+  "peerDependencies": {
+    "react": "^15.6.1"
+  },
+  "author": "milkbrother",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MBWu/react-components-toolkit/issues"
+  },
+  "homepage": "https://github.com/MBWu/react-components-toolkit#readme"
+}
