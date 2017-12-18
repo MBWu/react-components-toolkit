@@ -1,6 +1,6 @@
 {
   "name": "react-components-toolkit",
-  "version": "0.0.1-beta.3",
+  "version": "0.0.2",
   "description": "some react components ,including some often using effects",
   "main": "./build/index.js",
   "scripts": {
