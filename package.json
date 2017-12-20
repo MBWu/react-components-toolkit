@@ -1,10 +1,10 @@
 {
   "name": "react-components-toolkit",
-  "version": "0.0.2",
+  "version": "0.0.25",
   "description": "some react components ,including some often using effects",
   "main": "./build/index.js",
   "scripts": {
-    "build": "babel lib -w -d  build",
+    "build": "babel lib -d  build",
     "build:watch": "babel lib -w -d build",
     "lint": "eslint lib/**; exit 0",
     "lint:watch": "esw -w lib/**",
