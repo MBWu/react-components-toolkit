@@ -32,7 +32,7 @@ react-components-toolkit
 
 ### FullScroll
 ``` javascript
-<Carousel  /> 
+<FullScroll  /> 
 
 ```
 
